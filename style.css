@@ -60,5 +60,12 @@ button{
 }
 
 .operator{
-    color: #6dee0a;
+    color:white;
+    background-color: #fb7c14;
+
+}
+.operator1{
+    color:white;
+    background-color: rgb(189, 186, 186);
+
 }
